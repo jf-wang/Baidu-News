@@ -7,8 +7,6 @@
 
 ![demo](https://raw.githubusercontent.com/jf-wang/baiduNews/master/demoimg/demo4.png)
 
-![demo](https://raw.githubusercontent.com/jf-wang/baiduNews/master/demoimg/demo2.png)
-
 ![demo](https://raw.githubusercontent.com/jf-wang/baiduNews/master/demoimg/demo5.png)
 
 ###目录结构
